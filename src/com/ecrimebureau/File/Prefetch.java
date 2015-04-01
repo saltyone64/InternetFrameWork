@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-import javax.swing.JTextArea;
+import javax.swing.JTextArea; //nothing here
 
 /**
  *
