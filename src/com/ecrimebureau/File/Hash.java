@@ -45,7 +45,7 @@ public class Hash extends SwingWorker<String, Object>{
         this.jInternalFrame = jInternalFrame;
         jProgressBar.setMinimum(0);
           
-         jProgressBar.setValue(jProgressBar.getMinimum());
+         jProgressBar.setValue(jProgressBar.getMinimum()); //
     }
       
     
